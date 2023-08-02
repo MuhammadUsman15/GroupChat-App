@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618782375986",
+    "project_id": "flash-chat-da9a6",
+    "storage_bucket": "flash-chat-da9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618782375986:android:ebfc465813f18a2f2f3c2b",
+        "android_client_info": {
+          "package_name": "com.usman.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618782375986-8v0f583mt6p3qvd9i19vtm3djq0a5o3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzfAEucnRMG9km3S6QSqytMtEOpyVV-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618782375986-8v0f583mt6p3qvd9i19vtm3djq0a5o3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

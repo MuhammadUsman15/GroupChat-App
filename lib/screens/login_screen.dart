@@ -5,6 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'chat_screen.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 
+
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
   static const String id = 'login_screen';
@@ -91,3 +92,4 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 }
+

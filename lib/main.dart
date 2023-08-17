@@ -5,6 +5,7 @@ import 'package:chat/screens/welcome_screen.dart';
 import 'package:chat/screens/login_screen.dart';
 import 'package:chat/screens/registration_screen.dart';
 
+
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
